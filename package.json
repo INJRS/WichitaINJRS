@@ -1,0 +1,16 @@
+{
+  "name": "SquareGAIntegration",
+  "version": "1.0.0",
+  "description": "Integration with GA to track Square usage",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.12.2",
+    "express": "^4.14.0",
+    "querystring": "^0.2.0",
+    "request": "^2.54.0",
+    "square-connect": "^0.0.2"
+  },
+  "scripts": {
+    "start": "node app.js"
+  }
+}
